@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, my name is Amrah Imtiaz
+![](https://media.licdn.com/dms/image/D5616AQHeqwcvNFo2KQ/profile-displaybackgroundimage-shrink_350_1400/0/1690902196932?e=1699488000&v=beta&t=kqiDzR5vRsUk28yaTYdqafKxXe86WiGxnfqFegcYMU0)
 
-<!--
-**AmrahImtiaz/AmrahImtiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm a second-year university student on a quest for a Bachelor's degree in Computer Science, and I'm currently cruising through my fourth semester. My academic voyage has been an exciting one, mainly because I'm totally engrossed in the realms of UX/UI design, full-stack web development, and the thrill of problem-solving – especially when it comes to cracking those tricky LeetCode questions. Join me on this adventure as I delve deeper into the fascinating world of technology!
 
-Here are some ideas to get you started:
+Skills: UX UI / React Jss / TailwindCss / MySQL / JS / HTML / CSS / C++ / Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 📫 How to reach me: Gmail: amrahimtiaz@gmail.com 
+
+-Check Out My Work:
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AmrahImtiaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/amrahimtiaz//)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahImtiaz)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+![Amrah Imtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmrahImtiaz&theme=outrun&show_icons=true)
