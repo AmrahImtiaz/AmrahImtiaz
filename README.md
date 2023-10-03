@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Amrah Imtiaz
-![](https://media.licdn.com/dms/image/D5616AQHeqwcvNFo2KQ/profile-displaybackgroundimage-shrink_350_1400/0/1690902196932?e=1699488000&v=beta&t=kqiDzR5vRsUk28yaTYdqafKxXe86WiGxnfqFegcYMU0)
 
  I'm a second-year university student on a quest for a Bachelor's degree in Computer Science, and I'm currently cruising through my fourth semester. My academic voyage has been an exciting one, mainly because I'm totally engrossed in the realms of UX/UI design, full-stack web development, and the thrill of problem-solving – especially when it comes to cracking those tricky LeetCode questions. Join me on this adventure as I delve deeper into the fascinating world of technology!
 
