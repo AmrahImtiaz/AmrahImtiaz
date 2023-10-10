@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Amrah Imtiaz
 
+<img src = "https://media.licdn.com/dms/image/D4D16AQHoH-OLYCBZng/profile-displaybackgroundimage-shrink_350_1400/0/1696511739073?e=1702512000&v=beta&t=IHn9FhQWv6Nd56dEu5kfWIgBbUQ_3LX1AHzlr9qNaBI ">
+
  I'm a second-year university student on a quest for a Bachelor's degree in Computer Science, and I'm currently cruising through my fourth semester. My academic voyage has been an exciting one, mainly because I'm totally engrossed in the realms of UX/UI design, full-stack web development, and the thrill of problem-solving – especially when it comes to cracking those tricky LeetCode questions. Join me on this adventure as I delve deeper into the fascinating world of technology!
 
 Skills: UX UI / React Jss / TailwindCss / MySQL / JS / HTML / CSS / C++ / Python
