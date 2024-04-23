@@ -14,6 +14,9 @@
  
  🌱 I’m currently learning **Mern stack, Firebase, Android Studio**
 
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/AmrahImtiaz/AmrahImtiaz/issues)**
+
+ 
 💬 Ask me about **Node.js, React, Firebase... or anything [here]**((https://github.com/AmrahImtiaz/AmrahImtiaz/issues))**
 
  </div>
