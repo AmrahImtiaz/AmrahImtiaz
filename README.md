@@ -23,7 +23,7 @@
       <a href="https://www.behance.net/amrah" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
       </a>
-  <a href="https://www.linkedin.com/in/amrahimtiaz/" target="_blank">
+  <a href="https://amrah-imtiaz-portfolio.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
