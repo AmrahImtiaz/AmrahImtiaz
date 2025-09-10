@@ -6,12 +6,6 @@
 <h3 align="center">A passionate software developer , ui ux designer and content creator from Pakistan</h3>
 
 <br/>
-
-<div align="center">
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/AmrahImtiaz/AmrahImtiaz/issues)**
-
- </div>
  
 <div align="center"> 
   <!-- LinkedIn -->
