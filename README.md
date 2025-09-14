@@ -36,9 +36,9 @@
 <li>I am currently pursuing my BS in Computer Science.</li>
 <li>Won Wordpress Hackathon 2.0 and Participated in wordpress hackathon 4.0, 5.0</li>
 <li>Helped students in my batch as a Full Stack developer trainer</li>
-<li>Was awarded the President Honor Roll Spring 2023 Award for outstanding academic performance</li>
-    
-<li></li>
+<li>Was awarded the President Honor Roll Spring 2023 Award for outstanding academic performance</li>    
+<li>Took Standford code in place python programming course and completed all course requirements</li>
+<li>Actively Participating in international hackathon on Devpost and Lablabai </li>
 </ul>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
