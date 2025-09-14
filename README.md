@@ -31,7 +31,7 @@
 
  <hr/>
 
-<h3 align="center">About Me</h3>
+### 👨‍💻 About Me
 <ul>
 <li>I am currently pursuing my BS in Computer Science.</li>
 <li>Won Wordpress Hackathon 2.0 and Participated in wordpress hackathon 4.0, 5.0</li>
@@ -46,6 +46,17 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,nextjs,mysql /><br>
 </div>
+---
+
+### 📊 GitHub Stats
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmrahImtiazshow_icons=true&theme=radical)
+
+---
+
+### 🏆 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/cqveH1VLUF?theme=dark&font=Roboto&ext=contest)
+
+---
 
 <br/>
 <hr/>
