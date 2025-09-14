@@ -33,13 +33,12 @@
 
 <h3 align="center">About Me</h3>
 <ul>
-<li>🎓 I am currently pursuing my BS in Computer Science.</li>
-<li>🧠 I actively solve 1 LeetCode problem daily to strengthen my problem-solving skills.</li>
-<li>🐍 I served as a Section Leader in Stanford University’s Code in Place 2025,
-where I taught Python to international students and earned an official certificate.</li>
-<li>🎯 I participated in the MIT Winter Contest 2025, securing 239th place out of 536 global teams.</li>
-<li>💡 I joined Wordsprind Developers Hackathon, collaborating with developers on innovative projects.</li>
-<li>📂 I regularly upload coding problems and projects to GitHub to document my learning journey.</li>
+<li>I am currently pursuing my BS in Computer Science.</li>
+<li>Won Wordpress Hackathon 2.0 and Participated in wordpress hackathon 4.0, 5.0</li>
+<li>Helped students in my batch as a Full Stack developer trainer</li>
+<li>Was awarded the President Honor Roll Spring 2023 Award for outstanding academic performance</li>
+    
+<li></li>
 </ul>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
