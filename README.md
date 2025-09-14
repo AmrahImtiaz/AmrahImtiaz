@@ -49,7 +49,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmrahImtiazshow_icons=true&theme=radical)
+![Amrah Imtiaz GitHub stats](https://github-readme-stats.vercel.app/api?username=AmrahImtiazshow_icons=true&theme=radical)
 
 ---
 
