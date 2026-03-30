@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amrah+Imtiaz!;" />
 </h1>
 
-<h3 align="center">Undergraduate Computer Science Student | 💻 Aspiring Software Developer | 🌎 Global Learner & Hackathon Enthusiast</h3>
+<h3 align="center">Graduate Computer Science Student | 💻 Aspiring Software Developer | 🌎 Global Learner & Hackathon Enthusiast</h3>
 
 <br/>
  
@@ -33,7 +33,6 @@
 
 ### 👨‍💻 About Me
 <ul>
-<li>I am currently pursuing my BS in Computer Science.</li>
 <li>Won Wordpress Hackathon 2.0 and Participated in wordpress hackathon 4.0, 5.0</li>
 <li>Helped students in my batch as a Full Stack developer trainer</li>
 <li>Was awarded the President Honor Roll Spring 2023 Award for outstanding academic performance</li>    
